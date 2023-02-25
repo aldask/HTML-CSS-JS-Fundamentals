@@ -1,0 +1,39 @@
+.box {
+    height: 50px;
+    margin-bottom: 10px;
+}
+#a {
+    background-color: #fffb00;
+}
+#b {
+    background-color: #fffb00aa;
+}
+#c {
+    background-color: rgb(2, 204, 13);
+}
+#d {
+    background-color: hsl(0, 100%, 50%);
+}
+#e {
+    background-color: red;
+}
+#qq {
+    color: #079bc0;
+    font-weight: bold;
+}
+#ww {
+    color: #810da5c5;
+    font-weight: bold;
+}
+#ee {
+    color: rgb(1, 42, 228);
+    font-weight: bold;
+}
+#rr {
+    color: hsl(27%, 91%, 84%);
+    font-weight: bold;
+}
+#tt {
+    color: mediumseagreen;
+    font-weight: bold;
+}
