@@ -1,0 +1,14 @@
+#first-box{
+    border: 1px red solid;
+    padding: 10px;
+    width: 50px;
+    box-sizing: border-box;
+}
+#second-box {
+    border: 1px blue solid;
+    padding: 10px;
+    width: 50px;
+    box-sizing: content-box;
+}
+/* The difference between content-box and border-box is that border-box includes all other measurements in total width like padding, margin, border. Lets say div-one is 300px wide. Lets add 10px of padding.
+the total will be the same 300px. While using content-box is kind of different. It applies padding, margin outside of the box and the total box width will increase*/
